@@ -1,6 +1,6 @@
 {
-    "name": "codeception/symfony1module",
-    "description": "Module for symfony 1.x framework",
+    "name": "lee-kevin/symfony1module",
+    "description": "Fixed module for symfony 1.x framework",
     "license": "MIT",
     "authors": [
         {
